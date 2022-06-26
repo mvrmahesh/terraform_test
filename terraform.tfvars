@@ -1,1 +1,2 @@
-github_organization = "mvrmahesh"
+github_organization = "indiaaustralia"
+github_repo = "repository_test"
