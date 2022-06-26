@@ -1,1 +1,1 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"repository_creation","Source":"./modules/repo","Dir":"modules/repo"},{"Key":"github_team","Source":"./modules/github_teams","Dir":"modules/github_teams"}]}
+{"Modules":[{"Key":"repository_creation","Source":"./modules/repo","Dir":"modules/repo"},{"Key":"github_team","Source":"./modules/github_teams","Dir":"modules/github_teams"},{"Key":"","Source":"","Dir":"."}]}

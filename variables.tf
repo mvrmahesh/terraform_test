@@ -11,3 +11,7 @@ variable "github_organization" {
 variable "github_repo"{
   type = string
 }
+
+variable "github_repo_new"{
+  type = string
+}
