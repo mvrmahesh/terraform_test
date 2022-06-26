@@ -18,3 +18,10 @@ resource "github_team_members" "some_team_members" {
     role     = "member"
   }
 }
+
+resource "github_team" "create_teams" {
+  count = length(var.github_teams)
+  name        = var.github_teams[count.index]
+  description = "team where developer is associated"
+  privacy     = "closed"
+}
